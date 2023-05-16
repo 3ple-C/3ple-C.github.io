@@ -2,4 +2,4 @@
 
 #>> Only the Front end of thw website was developed
 
->>> Website template was gotten from HTML Codex
+#>>> Website template was gotten from HTML Codex
