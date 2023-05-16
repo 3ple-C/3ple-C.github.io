@@ -124,7 +124,7 @@
     .sticky-top.navbar-light .navbar-nav .nav-link {
         padding: 10px 0;
         margin-left: 0;
-        color: var(--dark) !important;
+        color: var(--light) !important;
     }
 
     .navbar-light .navbar-brand img {
@@ -443,11 +443,11 @@
 }
 
 /** Positioning **/
-.read_more{
+/* .read_more{
     position: relative;
     top: 23%;
     left: 67%;
-}
+} */
 
 .join_now{
     position: relative;
